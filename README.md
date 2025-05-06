@@ -1,4 +1,4 @@
-## ДЗ 
+## [ДЗ](https://github.com/MariaMayskaya/--/blob/main/рыба/Program1.cs)
 
 ### Steck
 
