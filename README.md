@@ -12,10 +12,7 @@ string person;
 2) bool
 3) float
 4)4 байта
-5) Корректное определение переменных :
-string person = "Tom";
-var person = "Tom";
-string person;
+5) Корректное определение переменных :string person = "Tom";var person = "Tom";string person;
 ```
 <p>Практическое задание </p>
 using System;
