@@ -2,6 +2,20 @@
 
 ### Steck
 
+## Tech Stack
+
+*   **Language:** C#
+*   **IDE:** Microsoft Visual Studio 2022
+*   **Target Framework:** .NET 7.0
+*   **UI Framework:** WPF (Windows Presentation Foundation)
+*   **XAML:** Used for UI design
+*   **ORM:** Entity Framework Core 7.0
+*   **Database Provider:** Microsoft.EntityFrameworkCore.SqlServer
+*   **Database:** SQL Server
+*   **Unit Testing:** xUnit
+*   **Dependency Injection:** Microsoft.Extensions.DependencyInjection
+*   **Logging:** Microsoft.Extensions.Logging
+  
 ## Вопрос 1
 Сколько элементов имеет следующий массив? 1 int[,,] numbers = new int[3, 2, 3]; Варианты ответов
 1. 0
