@@ -180,7 +180,7 @@ int[,,] mas = { { { 1, 2 },{ 3, 4 } },
 
 
 
-### [ДЗ 6]
+### [ДЗ 6](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/рыба/Metod.cs)
 
 ## Вопрос 1:
 Что такое метод в C#?
