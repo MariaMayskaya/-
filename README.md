@@ -48,6 +48,14 @@
 #### [Практическое задание по массивам](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Array/Array.cs)
 
 
+## Метод
+### Задания:
+#### [Теоретические вопросы](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod.cs)
+#### [1 практическое задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod1.cs)
+#### [2 практическое задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod2.cs)
+#### [3 практическое задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod3.cs)
+#### [4 практическое задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod4.cs)
+#### [5 практическое задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod5.cs)
 
 
 
