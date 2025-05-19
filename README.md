@@ -5,18 +5,9 @@
 *   **Language:** C#
 *   **IDE:** Microsoft Visual Studio 2022
 *   **Target Framework:** .NET 7.0
-*   **UI Framework:** WPF (Windows Presentation Foundation)
-*   **ORM:** Entity Framework Core 7.0
-
-
-##  <h2>CodeRun </h2>
-### Задания:
-#### [1 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun1.cs)
-#### [2 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun2.cs)
-#### [3 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun3.cs)
-#### [4 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun4.cs)
-#### [5 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun5.cs)
-
+  
+## Установка
+1. Установите Visual Studio 2022 (Community бесплатный)
 
 
 
@@ -56,6 +47,15 @@
 #### [3 практическое задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod3.cs)
 #### [4 практическое задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod4.cs)
 #### [5 практическое задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod5.cs)
+
+
+##  <h2>CodeRun </h2>
+### Задания:
+#### [1 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun1.cs)
+#### [2 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun2.cs)
+#### [3 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun3.cs)
+#### [4 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun4.cs)
+#### [5 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun5.cs)
 
 
 
