@@ -12,8 +12,6 @@ namespace Calculator
 
             char operation;
 
-            Console.WriteLine("Привет! Это простой калькулятор.");
-
             Console.Write("Введите первое число: ");
             string input1 = Console.ReadLine(); 
             number1 = Convert.ToDouble(input1); 
