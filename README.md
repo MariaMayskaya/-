@@ -9,8 +9,8 @@
 *   **ORM:** Entity Framework Core 7.0
 
 
-### [ДЗ 1](https://github.com/MariaMayskaya/--/blob/main/рыба/Program1.cs) 
-## Вопрос 1
+## [ДЗ 1](https://github.com/MariaMayskaya/--/blob/main/рыба/Program1.cs) 
+### Вопрос 1
 Сколько элементов имеет следующий массив? 1 int[,,] numbers = new int[3, 2, 3]; Варианты ответов
 1. 0
 2. 1
