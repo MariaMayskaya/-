@@ -1,4 +1,4 @@
-# Основы алгоритмизации и программирования
+# <h1>Основы алгоритмизации и программирования</h1>
 
 ##  Stack
 
@@ -9,7 +9,7 @@
 *   **ORM:** Entity Framework Core 7.0
 
 
-## <h1> CodeRun </h1>
+##  <h2>CodeRun </h2>
 ### Задания:
 #### [1 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun1.cs)
 #### [2 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun2.cs)
