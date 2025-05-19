@@ -6,25 +6,38 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-
-            double number1;
-            double number2;
-
             char operation;
+            bool error = false;
+
+            Console.Write("Выберите операцию (+, -, *, /, %, i (инкремент), d (декремент)): ");
+            operation = Convert.ToChar(Console.ReadLine());
+
+            double result = 0;
+
+           
+            if (operation == 'i' || operation == 'd') 
+            {
+                Console.Write("Введите число: ");
+                double number = Convert.ToDouble(Console.ReadLine());
+
+                result = (operation == 'i') ? number + 1 : number - 1;  
+                Console.WriteLine($"Результат: {(operation == 'i' ? "Инкремент" : "Декремент")} {number} = {result}"); 
+                return; 
+            }
+
+            if (operation != '+' && operation != '-' && operation != '*' && operation != '/' && operation != '%')  
+            {
+                Console.WriteLine("Неизвестная операция! Доступные операции: + - * / % i d"); 
+                return;
+            }
 
             Console.Write("Введите первое число: ");
-            string input1 = Console.ReadLine(); 
-            number1 = Convert.ToDouble(input1); 
+            double number1 = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Введите второе число: ");
-            string input2 = Console.ReadLine(); 
-            number2 = Convert.ToDouble(input2); 
-  
-            Console.Write("Выберите операцию (+, -, *, /, %): ");
-            operation = Convert.ToChar(Console.ReadLine()); 
+            double number2 = Convert.ToDouble(Console.ReadLine());
 
-            double result = 0; 
-
+          
             if (operation == '+')
             {
                 result = number1 + number2;
@@ -39,15 +52,34 @@ namespace Calculator
             }
             if (operation == '/')
             {
-                result = number1 / number2; 
+                if (number2 == 0)
+                {
+                    Console.WriteLine("Ошибка: деление на ноль невозможно!");
+                    error = true;
+                }
+                else
+                {
+                    result = number1 / number2;
+                }
             }
             if (operation == '%')
             {
-                result = number1 % number2;  
+                if (number2 == 0)
+                {
+                    Console.WriteLine("Ошибка: невозможно вычислить остаток от деления на ноль!");
+                    error = true;
+                }
+                else
+                {
+                    result = number1 % number2;
+                }
             }
 
-            Console.WriteLine("Результат: " + result);
 
+            if (!error)
+            {
+                Console.WriteLine($"Результат: {number1} {operation} {number2} = {result}");
+            }
         }
     }
 }
