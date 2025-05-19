@@ -29,6 +29,16 @@
 #### [Интерактивная новелла с использованием бесконечного циклa](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Novela/novela.cs)
 
 
+## Задачи циклы
+### Задания:
+#### [1 задача](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Loops/loop1.cs)
+#### [2 задача](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Loops/loop2.cs)
+#### [3 задача](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Loops/loop3.cs)
+#### [4 задача](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Loops/loop4.cs)
+
+
+
+
 
 
 ## [ДЗ 1](https://github.com/MariaMayskaya/--/blob/main/рыба/Program1.cs) 
