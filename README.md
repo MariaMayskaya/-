@@ -12,6 +12,11 @@
 ## [CodeRun](https://github.com/MariaMayskaya/--/blob/main/рыба/Program1.cs) 
 ### Задания:
 #### [1 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun1.cs)
+#### [2 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun2.cs)
+#### [3 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun3.cs)
+#### [4 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun4.cs)
+#### [5 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun5.cs)
+
 
 
 ## [ДЗ 1](https://github.com/MariaMayskaya/--/blob/main/рыба/Program1.cs) 
