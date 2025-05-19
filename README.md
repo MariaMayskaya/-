@@ -1,5 +1,4 @@
-
-
+# Основы алгоритмизации и программирования
 
 ##  Stack
 
@@ -8,6 +7,7 @@
 *   **Target Framework:** .NET 7.0
 *   **UI Framework:** WPF (Windows Presentation Foundation)
 *   **ORM:** Entity Framework Core 7.0
+
 
 ### [ДЗ 1](https://github.com/MariaMayskaya/--/blob/main/рыба/Program1.cs) 
 ## Вопрос 1
