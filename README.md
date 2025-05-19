@@ -64,5 +64,8 @@
 ### Задания:
 #### [Реализция консольной игры "крестики-нолики" с использованием языка программирования C#.](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Game/tic-tac-toe%20game.cs)
 
-
-
+## <h2>Консольный проводник файловой системы</h2>
+### Задания:
+#### [Консольный проводник файловой системы](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/ConsolProvodnic/FileInfo1.cs)
+#### [Приложение для работы с дисками](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/ConsolProvodnic/FileInfo2.cs)
+#### [Модификация консольного проводника с возможностью создания файлов](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/ConsolProvodnic/FileInfo3.cs)
