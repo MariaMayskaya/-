@@ -9,7 +9,7 @@
 *   **ORM:** Entity Framework Core 7.0
 
 
-## [CodeRun](https://github.com/MariaMayskaya/--/blob/main/рыба/Program1.cs) 
+## CodeRun 
 ### Задания:
 #### [1 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun1.cs)
 #### [2 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun2.cs)
