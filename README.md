@@ -20,20 +20,20 @@
 
 
 
-## Простой калькулятор на С#
+## <h2>Простой калькулятор на С#</h2>
 ### Задание:
 [Простой калькулятор, который сможет выполнять базовые арифметические операции: сложение, вычитание, умножение и деление, остаток от деления, инкремент, декремент. Калькулятор должен предоставлять пользователю возможность вводить числа и вывод всех математических действий.](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Calculator/calc.cs)
 
 
 
-## Новелла
+## <h2>Новелла</h2>
 ### Задание:
 #### [Интерактивная новелла с использованием бесконечного циклa](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Novela/novela.cs)
 
 
 
 
-## Задачи циклы
+## <h2>Задачи циклы</h2>
 ### Задания:
 #### [1 задача](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Loops/loop1.cs)
 #### [2 задача](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Loops/loop2.cs)
@@ -43,12 +43,12 @@
 
 
 
-## Массивы
+## <h2>Массивы</h2>
 ### Задания:
 #### [Практическое задание по массивам](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Array/Array.cs)
 
 
-## Метод
+## <h2>Метод</h2>
 ### Задания:
 #### [Теоретические вопросы](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod.cs)
 #### [1 практическое задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Metod/Metod1.cs)
@@ -60,7 +60,7 @@
 
 
 
-## Разработка крестиков - ноликов
+## <h2>Разработка крестиков - ноликов</h2>
 ### Задания:
 #### [Реализция консольной игры "крестики-нолики" с использованием языка программирования C#.](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/Game/tic-tac-toe%20game.cs)
 
