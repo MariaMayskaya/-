@@ -58,6 +58,10 @@
 #### [5 задание](https://github.com/MariaMayskaya/Fundamentals_of_algorithmization_and_programming/blob/main/CodeRun/CodeRun5.cs)
 
 
+##  <h2>Работa блок-схемы</h2>
+### Задания:
+#### [работа](https://docs.google.com/document/d/1wfUfH_BSU21iqhYBzbj5HSjfsNS5NUnklbXkFT3dfCM/edit?tab=t.0#heading=h.rgclzzlrqhji)
+
 
 
 ## <h2>Разработка крестиков - ноликов</h2>
